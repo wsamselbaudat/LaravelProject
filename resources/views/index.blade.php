@@ -6,7 +6,7 @@
             <h2 class="text-4xl sm:text-8xl">
                 Wiktor <span class="text-yellow-300"> Samsel-Baudat</span></h2>
                 <h3 class="text-2xl sm:text-5xl"> First Laravel Project </h3>
-                <h4 class="text-2xl sm:text-4xl"> Basic html and tailwind css used </h4>
+                <h4 class="text-2xl sm:text-4xl"> Basic html,tailwind css and php used </h4>
         </div>
         <div class="absolute bottom-0 left-0 right-0 p-20">
             <p class="text-center">Scroll down</p>
